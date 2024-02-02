@@ -9,7 +9,7 @@ While the main CAD is drawn from scratch, the design obviously derives inpiratio
 
 Note that this model uses components sourced from 3rd parties via GrabCAD.
 
-### Concrete Notes
+### Concrete Notes (needs update)
 
 Bottom base volume:
 Volume = 27.13 liters
@@ -26,4 +26,5 @@ Total is < 1.85 cubic feet.
 
 6 bags to do the pours should be sufficient.
 
+### Major Components (needs update)
 Y axis ballscrew is 650mm

@@ -38,10 +38,10 @@ Total is < 2.1 cubic feet.
 20mm rails (HGR or RGR)
 
 X axis ballscrew is 850mm
-X Rails are 800mm
+X Rails are 800mm HGH
 
 Y axis ballscrew is 650mm
-Y Rails are 600mm
+Y Rails are 600mm HGH
 
 Z axis ballscrew is 350mm
-Z Rails are 400mm
+Z Rails are 400mm HGW-CC

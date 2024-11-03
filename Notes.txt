@@ -1,0 +1,53 @@
+Bottom base volume:
+Volume = 27.13 liters
+cubic feet
+0.95808691
+
+Arch volume:
+Volume = 22.71 liters
+0.80199608
+
+Total is < 1.85 cubic feet.
+
+138.3 lbs dry material = 1 cf. of wet mix
+
+6 bags to do the pours should be sufficient.
+
+Y axis ballscrew is 650mm
+
+Gantry connection bolts:
+
+60mm
+120mm
+
+M5 mold bolts
+Need 25mm and 30mm bolts for holding mold together.
+
+Enclosure Parts:
+3030 extrusions (imperial)
+
+28 4 hole corner brackets.
+28x8 tnuts and bolts for above.
+8 2 hole corer brackets.
+8x4 tnuts and bolts for above.
+
+15QE1515 extrusions for the top enclosure.
+16 internal corners for this.
+
+Enclosure:
+3030:
+630mmx2 - 25 inches*
+550mmx4 - 22 inches*
+700mmx4 - 28 inches
+930mmx2 - 37 inches
+776.2mm*2 - 31 inches
+
+1515
+48in*4
+776.2mm*2 - 31 inches
+930mm*2 - 37 inches
+
+Some issues with Z axis:
+Attachment of Z bearing block should be from the outside in, not inside out as current.
+X bearing block should be more centered or biased towards toolchange side to increase clearance to FK block.
+Hole should be made in Z axis to access Z ballnut zerk.

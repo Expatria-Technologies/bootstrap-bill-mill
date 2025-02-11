@@ -9,7 +9,7 @@ While the main CAD is drawn from scratch, the design obviously derives inspirati
 
 <img src="/readme_images/mill_with_stand.png" width="800">
 
-Note that this model uses components sourced from 3rd parties via GrabCAD.  All original design elements are copyright Expatria Technologies and licensed under the CERN-OHL-S 2.0 Strongly Reciprocal license.  In brief terms that means that if you use any portion of Expatria's original design in a derivative, you must release your complete design under the same or equivalent license.
+Note that this model uses components sourced from 3rd parties via GrabCAD.  All original design elements are copyright Expatria Technologies and licensed under the CERN-OHL-S 2.0 Strongly Reciprocal license.  In brief terms that means that if you use any portion of Expatria's original design in a derivative, you must release your complete design under the same or equivalent license and provide attribution to this repository.
 
 ### Concrete Notes
 

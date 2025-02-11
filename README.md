@@ -45,3 +45,5 @@ Y Rails are 600mm HGH
 
 Z axis ballscrew is 350mm
 Z Rails are 400mm HGW-CC
+
+![411256304-e611fcce-fb35-4183-9207-36fb910ada37](https://github.com/user-attachments/assets/1bc58a2e-594a-4d37-986f-6103f8cad0f5)

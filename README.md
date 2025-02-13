@@ -13,7 +13,7 @@ Note that this model uses components sourced from 3rd parties via GrabCAD.  All 
 
 ### Concrete Notes
 
-Trinic UHPC premix
+UHPC premix
 
 Bottom base volume:
 Volume = 27.75 liters

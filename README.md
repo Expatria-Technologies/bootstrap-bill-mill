@@ -9,13 +9,11 @@ While the main CAD is drawn from scratch, the design obviously derives inspirati
 
 <img src="/readme_images/mill_with_stand.png" width="800">
 
-Note that this model uses components sourced from 3rd parties via GrabCAD.
-
-
+Note that this model uses components sourced from 3rd parties via GrabCAD.  All original design elements are copyright Expatria Technologies and licensed under the CERN-OHL-S 2.0 Strongly Reciprocal license.  In brief terms that means that if you use any portion of Expatria's original design in a derivative, you must release your complete design under the same or equivalent license and provide attribution to this repository.
 
 ### Concrete Notes
 
-Trinic UHPC premix
+UHPC premix
 
 Bottom base volume:
 Volume = 27.75 liters
@@ -45,3 +43,5 @@ Y Rails are 600mm HGH
 
 Z axis ballscrew is 350mm
 Z Rails are 400mm HGW-CC
+
+![411256304-e611fcce-fb35-4183-9207-36fb910ada37](https://github.com/user-attachments/assets/1bc58a2e-594a-4d37-986f-6103f8cad0f5)

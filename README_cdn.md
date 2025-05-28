@@ -145,7 +145,7 @@ If you factor in shipping, then the DIY frame is more compelling if you are outs
 In North America there is nothing like the Technik frames, zero alternatives that are the same quality or capability.
 
 I still have to cast the gantry and I am planning to do that with an assistant and I'll try to take photos of the process from start to finish.
-The commercial premix is  ~40 USD per 45lb bag plus shipping.  I think it came out to around 65 usd per bag for me and it takes 8 (one extra) to make a Bill mill.
+The commercial premix is  ~50 CAD per 45lb bag plus shipping.  I think it came out to around 80 CAD per bag for me and it takes 8 (one extra) to make a Bill mill.
 FWIW I am mixing in a small drum mixer and it does work fine, just takes longer than I think a turbine mixer would take, but the slump test is in line with expectations.
 The ice helps a lot with the drum mixer.
 I did try a double-paddle mixer, and it works better than the drum.  But I think you need a professional level hand mixer as mine burned out the brushes after mixing just 2 buckets.

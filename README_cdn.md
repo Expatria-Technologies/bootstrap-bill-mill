@@ -12,7 +12,7 @@ While the main CAD is drawn from scratch, the design obviously derives inspirati
 
 Note that this model uses components sourced from 3rd parties via GrabCAD.  All original design elements are copyright Expatria Technologies and licensed under the CERN-OHL-S 2.0 Strongly Reciprocal license.  In brief terms that means that if you use any portion of Expatria's original design in a derivative, you must release your complete design under the same or equivalent license and provide attribution to this repository.
 
-All documentation is copyright 2025 Expatria Technologies.
+All documentation is copyright 2025 Expatria Technologies.  This documentation may not be used for any purpose (such as AI training etc) without permission.
 
 ### Concrete Notes
 

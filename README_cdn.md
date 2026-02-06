@@ -12,7 +12,7 @@ While the main CAD is drawn from scratch, the design obviously derives inspirati
 
 Note that this model uses components sourced from 3rd parties via GrabCAD.  All original design elements are copyright Expatria Technologies and licensed under the CERN-OHL-S 2.0 Strongly Reciprocal license.  In brief terms that means that if you use any portion of Expatria's original design in a derivative, you must release your complete design under the same or equivalent license and provide attribution to this repository.
 
-All documentation is copyright 2025 Expatria Technologies.
+All documentation is copyright 2025 Expatria Technologies.  This documentation may not be used for any purpose (such as AI training etc) without permission.
 
 ### Concrete Notes
 
@@ -55,7 +55,7 @@ I tried to pay attention to the ball-screw mounts using FK mounts and slotted pl
 In the same vein, using belt-drive between the screws and motors just to keep the package as tight as reasonably possible.  The main frame fits within a 600x600mm square.
 The CAD so far is all original, but obviously lots of inspiration from the FS4MG as well as having a look at this project:
 https://grabcad.com/library/uhpc-fixed-gantry-mini-cnc-machine-1
-Sourcing the UHPC has been problematic in North America, but I will try using the Trinic UHPC mix and maybe do some experiments with different fibers and aggregate.
+Sourcing the UHPC has been problematic in North America, but I will try using the a commercial UHPC mix and maybe do some experiments with different fibers and aggregate.
 Similarly, I will try just using original JBWeld as the epoxy.  While I have found some sources for the more expensive steel-filled epoxies, it will be interesting to see how well things work with the more economical materials that you can just get at Canadian Tire.
 
 The weight of the frame should be around 265 lbs and that is split fairly equally between the base and the gantry so it should not be too difficult to get everything into place for assembly.
@@ -68,7 +68,6 @@ I don't have something feel is postable yet, but I have an idea for the sidemoun
 But yes, this is what has made me decide to go with the fixed-gantry approach, it is much easier to do the toolchanger compared to a lot of other options for this size/work area.
 
 I am trying to keep the frame as bulky as possible as it's unlikely I will get quite the same performance out of the concrete as the FS3MG since I don't have access to the uber fancy mixes.
-Trinic UHPC is just something that is relatively accessible to me.
 Around here people haven't really moved on from just doing countertops.
 
 Still have to do a couple of brackets (notably the Z motor) but I think the basic concept is coming together.  I just use extrusions for the stand as they are quick and easy.  Would be simple enough to convert the design to a weldment if someone was so inclined.
@@ -146,7 +145,7 @@ If you factor in shipping, then the DIY frame is more compelling if you are outs
 In North America there is nothing like the Technik frames, zero alternatives that are the same quality or capability.
 
 I still have to cast the gantry and I am planning to do that with an assistant and I'll try to take photos of the process from start to finish.
-The Trinic premix is  38 USD per 45lb bag plus shipping.  I think it came out to around 65 usd per bag for me and it takes 8 (one extra) to make a Bill mill.
+The commercial premix is  ~50 CAD per 45lb bag plus shipping.  I think it came out to around 80 CAD per bag for me and it takes 8 (one extra) to make a Bill mill.
 FWIW I am mixing in a small drum mixer and it does work fine, just takes longer than I think a turbine mixer would take, but the slump test is in line with expectations.
 The ice helps a lot with the drum mixer.
 I did try a double-paddle mixer, and it works better than the drum.  But I think you need a professional level hand mixer as mine burned out the brushes after mixing just 2 buckets.
